@@ -41,7 +41,7 @@ class Mailup extends Module
         $this->need_instance = 0;
 
         /**
-         * Set $this->bootstrap to true if your module is compliant with bootstrap (PrestaShop 1.6)  test
+         * Set $this->bootstrap to true if your module is compliant with bootstrap (PrestaShop 1.6)
          */
         $this->bootstrap = true;
 
